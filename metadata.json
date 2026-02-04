@@ -1,0 +1,12 @@
+{
+  "description": "Smart PDF document grouper and QR code analyzer using Gemini AI for context-aware sorting. Ready for Electron export.",
+  "requestFramePermissions": [],
+  "name": "IntelliGroup_PDF_Ballots_AI",
+  "desktop": {
+    "entry": "main.js",
+    "platforms": [
+      "win32",
+      "linux"
+    ]
+  }
+}
